@@ -27,3 +27,7 @@ include:
     shield: corne_left
   - board: nrfmicro/nrf52840
     shield: corne_right
+  - board: nice_nano
+    shield: corne_left
+  - board: nice_nano
+    shield: corne_right
